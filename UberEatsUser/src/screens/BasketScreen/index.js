@@ -49,11 +49,6 @@ const styles = StyleSheet.create({
     fontWeight: "600",
     marginVertical: 10,
   },
-  separator: {
-    height: 1,
-    backgroundColor: "lightgrey",
-    marginVertical: 10,
-  },
   row: {
     flexDirection: "row",
     alignItems: "center",
